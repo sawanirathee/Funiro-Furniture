@@ -12,7 +12,7 @@ nav{
     justify-content: flex-start;
     /* padding: 0 50px; */
 }
-img{
+ header img{
     margin-right: 6%;
     margin-left: 5%;
 }
@@ -147,4 +147,31 @@ border-radius: 10px;
 #section2 .imgs h5{
     margin-left: 122px;
     margin-top: 30px;
+}
+/* --------------section3---------------- */
+#section3 .col{
+  background-color: #F4F5F7;
+ width: 250px;
+margin-right: 20px;
+padding: 0;
+}
+#section3 .col img{
+ width: 100%;
+ margin: 0;
+ padding: 0;
+}
+#section3  h2{
+  font-weight: 800;
+}
+#section3 .col span{
+ font-size: small;
+ margin-left: 10px;
+}
+#section3 .container button{
+  padding: 10px 20px;
+  border:1px solid #B88E2F;
+  text-decoration: none;
+  background-color: white;
+ color: #B88E2F;
+
 }
